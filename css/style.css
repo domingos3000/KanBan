@@ -55,9 +55,8 @@
 }
 
 .container .main .box__header_search {
-/*	background-color: red;*/
 	position: static;
-	width: calc(100%);
+	width: 100%;
 }
 
 .container .main .main__header {
@@ -98,7 +97,6 @@
 
 .container .main .main__search .search__filter span {
 	font-size: 0.875rem;
-
 }
 
 .container .main .main__search .search__filter:hover > .filter__options {
