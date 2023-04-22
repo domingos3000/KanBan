@@ -3,7 +3,7 @@
 
 ## Descrição
 Este projeto faz parte de um programa de treinamento para desenvolvedores front-end oferecido pela Rockeaseat em forma de desafios.
-Esta foi a conclusão de mais uma obra de arte tecnológica!
+Esta foi a conclusão de mais uma obra de arte tecnológica! Confira...
 
 ## Link do Projeto
 <https://domingos3000.github.io/KanBan/>
